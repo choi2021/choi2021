@@ -14,8 +14,6 @@
 아직 사이트에 홍보(?) 되어지고 있는 <b>momuntum</b> 프로젝트를 제가 계속해서 공부하고 있는 <br>
 React로 리뉴얼하는 것입니다. 
 
-![노마드코더](https://user-images.githubusercontent.com/80830981/171027063-21fa6a19-1fa3-4a2d-9060-fdcff6bf7b25.png)
-
 
 ##### 6월 목표: 노마드코더 React-master 챌린지 참여
 
