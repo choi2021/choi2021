@@ -14,6 +14,9 @@
 아직 사이트에 홍보(?) 되어지고 있는 <b>momuntum</b> 프로젝트를 제가 계속해서 공부하고 있는 <br>
 React로 리뉴얼하는 것입니다. 
 
+![노마드코더](https://user-images.githubusercontent.com/80830981/171027063-21fa6a19-1fa3-4a2d-9060-fdcff6bf7b25.png)
+
+
 ##### 6월 목표: 노마드코더 React-master 챌린지 참여
 
 노마드 코더에서 챌린지에 참여해 새로운 기술(Typescript, Recoil, React-Query)과 라이브러리로 졸업작품을 내는 것이 목표입니다.<br>
