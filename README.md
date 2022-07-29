@@ -2,7 +2,7 @@
 
 ### 자기소개
 
-  프론트엔드 개발자를 목표로 React, Recoil, Typescript<br>
+  프론트엔드 개발자를 목표로 React, Recoil, Typescript등을 공부하고 있습니다.<br>
 
 ### 이번해 목표
 
