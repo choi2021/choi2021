@@ -2,7 +2,7 @@
 
 # 안녕하세요 프론트엔드를 공부하고 있는 최영준입니다
 
-- 🌱 요즘 공부중인 분야: Browser, Typescript
+- 🌱 요즘 공부중인 분야: react, Typescript
 - 📫 연락처: <juni2004c@gmail.com> 
 
 
