@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&fontColor=000000&color=&height=200&section=header&text=Youngjun_Choi&fontSize=60)
 
-# 안녕하세요 프론트엔드를 공부하고 있는 최영준입니다
+# 안녕하세요 프론트엔드 개발자 최영준입니다
 
-- 🌱 요즘 공부중인 분야: Next JS, Typescript
+- 🌱 요즘 공부중인 분야: Next JS, Typescript 
 - 📫 이메일: <juni2004c@gmail.com> 
 - 📔 블로그: https://choi2021.github.io/
 
@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  
 </div>
 
 ## Tools
