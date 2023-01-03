@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&fontColor=000000&color=&height=200&section=header&text=Youngjun_Choi&fontSize=60)
 
 # 안녕하세요 주도적으로 학습하고 성장하는 개발자 최영준입니다
-- 기록하는 것을 좋아합니다. 블로그에 다양한 시행착오와 학습한내용을 기록해 약 80개의 포스팅을 남겼고, 제가 만들고 싶은 서비스들과 아이디어들을 꾸준히 기록하고 있습니다.
-- 코드와 기술적인 내용을 설명하는 것을 좋아합니다. 코드리뷰와 스터디를 통해 발표하고 학습한 내용을 공유하며 성장하고 있습니다.
 - **일상에 스며들 수 있는 서비스를 만드는 개발자를** 목표로 달려가고 있습니다.
 
 - 🌱 요즘 공부중인 분야: Next JS, Typescript 
