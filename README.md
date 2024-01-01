@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&fontColor=000000&color=&height=200&section=header&fontSize=60)
 
-# 안녕하세요 주도적으로 학습하고 성장하는 개발자 최영준입니다
-- **일상에 스며들 수 있는 서비스를 만드는 개발자를** 목표로 달려가고 있습니다.
+# 안녕하세요 일상에 스며들 수 있는 서비스를 만드는 개발자를 최영준입니다
 
-- 🌱 요즘 공부중인 분야: React Native, Typescript 
+- 🌱 관심 분야: React Native, React, Typescript 
 - 📫 이메일: <juni2004c@gmail.com> 
 - 📔 블로그: https://choi2021.github.io/
 
