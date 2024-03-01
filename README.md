@@ -1,6 +1,6 @@
 
 <h1 align='center'>안녕하세요 주도적으로 성장하는 개발자, 최영준입니다 </h1>
-<h3 align="center"> 🐥 About Me ⚡️ </h3>
+<h3 align="center"> 😆 About Me  </h3>
 <p align="center">
   <a href="https://choi2021.github.io"><img src="https://img.shields.io/badge/-Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://choi2021.github.io/"/></a>
   <a href="https://www.linkedin.com/in/%EC%98%81%EC%A4%80-%EC%B5%9C-3a316825a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongmin-lee-5ab898202/"/></a>
