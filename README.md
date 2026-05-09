@@ -1,8 +1,8 @@
-<h1 align="center">안녕하세요, 복잡한 문제를 구조적으로 풀어내고, 사용자와 팀 모두에게 더 나은 경험을 만드는 개발자 최영준입니다.</h1>
+<h1 align="center">안녕하세요, 복잡한 문제를 구조적으로 풀어내고 사용자와 팀 모두에게 더 나은 경험을 만드는 개발자 최영준입니다.</h1>
 
 <p align="center">
-  React, TypeScript 기반으로 서비스 성능 개선, 도메인 재설계, 개발 생산성 향상에 강점이 있습니다.<br />
-  사용자 경험과 엔지니어링 효율을 함께 높이는 방향으로 문제를 해결합니다.
+  React, TypeScript 기반으로 사용자 경험 개선, 구조 설계, 성능 최적화에 관심이 있습니다.<br />
+  복잡한 요구사항을 더 이해하기 쉬운 구조로 정리하고, 제품과 개발 환경이 함께 좋아지는 방향으로 문제를 해결합니다.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://github.com/choi2021">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/%EC%98%81%EC%A4%80-%EC%B5%9C-3a316825a/">
+  <a href="https://www.linkedin.com/in/youngjun-choi-3a316825a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:juni2004c@gmail.com">
@@ -24,25 +24,29 @@
 
 ## About Me
 
-- 복잡한 비즈니스 문제를 구조적으로 분석하고 더 단순한 형태로 재설계하는 데 강점이 있습니다.
-- 성능 최적화와 사용자 경험 개선을 통해 실제 지표 변화를 만드는 일을 좋아합니다.
-- 제품 개발뿐 아니라 배포 환경, 공통화, 운영 효율까지 함께 개선하는 데 관심이 많습니다.
+- 복잡한 비즈니스 문제를 구조적으로 분석하고 더 단순하고 유지보수하기 쉬운 형태로 정리하는 데 강점이 있습니다.
+- 사용자 경험을 개선하는 일뿐 아니라 팀이 더 안정적이고 효율적으로 개발할 수 있는 환경에도 관심이 많습니다.
+- 화면 구현에 그치지 않고 제품 구조, 협업 방식, 운영 효율까지 함께 좋아지는 방향을 고민합니다.
 
 ---
 
 ## Experience
 
 ### Toss / Toss Income
-**Frontend Developer** | 2024.11 - Present
+**Frontend Engineer** | 2024.11 - Present
 
-- 연말정산 및 종합소득세 신고 서비스 개발
-- 도메인 재설계, SSR 전환, 인프라 표준화 중심으로 개선 주도
+- 연말정산 및 종합소득세 신고 서비스 프론트엔드 개발
+- 복잡하게 분산된 흐름을 더 이해하기 쉬운 도메인 구조로 재설계
+- SSR 전환과 인프라 개선을 통해 더 빠르고 안정적인 사용자 경험을 만드는 작업 진행
+- 운영 이슈를 줄이고 팀이 더 빠르게 개발할 수 있는 구조와 배포 환경 개선
 
 ### Soomgo
-**Mobile Developer** | 2023.02 - 2024.10
+**Mobile Engineer** | 2023.02 - 2024.10
 
-- React Native 기반 서비스 개발
-- 앱 시작 속도 최적화 및 에러 핸들링 체계 고도화
+- React Native 기반 모바일 서비스 개발
+- 앱 시작 구간의 병목을 개선해 초기 사용자 경험 최적화
+- 에러 처리와 모니터링 체계를 정비해 더 안정적인 앱 환경 구축
+- 사용자 흐름이 끊기지 않도록 복구 가능한 UX와 구조 개선에 기여
 
 ---
 
@@ -54,24 +58,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
----
-
-## What I Care About
-
-- 복잡한 요구사항을 이해하기 쉬운 구조와 UI로 풀어내기
-- 사용자 경험과 개발 경험을 함께 개선하는 설계
-- 재사용 가능한 컴포넌트와 유지보수하기 좋은 프론트엔드 구조
-- 경험을 기록하고 자산화해 팀의 생산성을 높이는 문화 만들기
-
----
 
 ## Contact
 
